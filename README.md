@@ -1,6 +1,6 @@
-# Search Project
+# AI - Dictionary Project
 
-A modern search application built with React and JavaScript, featuring real-time search capabilities and a clean user interface.
+A modern dictionary application built with React and JavaScript, featuring real-time search capabilities and a clean user interface.
 
 ## Features
 
