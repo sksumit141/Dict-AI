@@ -15,7 +15,7 @@ const App = () => {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(null);
 
-  const ai = new GoogleGenAI({ apiKey: "AIzaSyC6qjislZa1SLKMKiGmh1SSDwNkFXhf-dU" });
+  const ai = new GoogleGenAI({ apiKey: "YOUR API KEY" });
 
   const handleSearch = async () => {
     if (!word.trim()) return;
